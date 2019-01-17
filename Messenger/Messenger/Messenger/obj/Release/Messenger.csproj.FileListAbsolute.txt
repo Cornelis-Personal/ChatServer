@@ -1,0 +1,9 @@
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Messenger\bin\Release\Messenger.exe
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Messenger\bin\Release\Messenger.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Messenger\bin\Release\Perfection.Addons.StreamCommunication.dll
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Messenger\bin\Release\Perfection.Addons.StreamCommunication.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Messenger\obj\Release\Messenger.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Messenger\obj\Release\Messenger.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Messenger\obj\Release\Messenger.csproj.CopyComplete
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Messenger\obj\Release\Messenger.exe
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Messenger\obj\Release\Messenger.pdb

@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Perfection.Addons.StreamCommunication\obj\Debug\Cornelis.Addons.StreamCommunication.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Perfection.Addons.StreamCommunication\obj\Debug\Cornelis.Addons.StreamCommunication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Perfection.Addons.StreamCommunication\bin\Debug\Perfection.Addons.StreamCommunication.dll
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Perfection.Addons.StreamCommunication\bin\Debug\Perfection.Addons.StreamCommunication.pdb
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Perfection.Addons.StreamCommunication\obj\Debug\Perfection.Addons.StreamCommunication.dll
+C:\Users\admin\Documents\Visual Studio 2017\Repos\TCPChatConsole\Messenger\Messenger\Perfection.Addons.StreamCommunication\obj\Debug\Perfection.Addons.StreamCommunication.pdb
